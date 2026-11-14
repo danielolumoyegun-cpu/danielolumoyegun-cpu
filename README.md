@@ -20,7 +20,6 @@ Full-stack web developer in **Lagos, Nigeria**. I build fast, clean websites and
 |---|---|---|---|
 | **Abbelle Exquisite** | Luxury fashion e-commerce store: catalog, cart, checkout and admin | HTML · CSS · C# · ASP.NET | [abbelleexquisite.biz](https://abbelleexquisite.biz) |
 | **Malcolm Ltd** | Multi-page marketing agency site built from a design mockup | HTML · CSS · JS | [repo](https://github.com/danielolumoyegun-cpu/malcolm-ltd) |
-| **Redivivis Stock Count** | Installable stock-count web app for Redivivis inventory | HTML · JS · PWA | [repo](https://github.com/danielolumoyegun-cpu/Redivivis-Stock-) |
 | **D.O.O** | My personal portfolio site | HTML · CSS · JS | [omoeledua.com](https://omoeledua.com) |
 
 ### 🛠️ In the Lab
